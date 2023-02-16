@@ -1,0 +1,157 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flg-icon {
+    width: 1rem;
+    margin-right: 4px;
+}
+
+.font-color {
+    color: grey;
+}
+
+.logo {
+    padding-top: 0.5rem;
+}
+
+.search-bar {
+    margin-left: 5rem;
+}
+
+.dropdown {
+    color: #0aad0a;
+}
+
+form {
+    background: gray;
+    border-radius: 0.5rem;
+    position: relative;
+    width: 30rem;
+    border: solid 1px gray;
+}
+
+input {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 0.5rem;
+    font-size: 20px;
+    padding: 8px 40px 8px 20px;
+    border: none;
+}
+input:focus{
+    outline: none;
+}
+.btn-search {
+    background: #fff;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+    border: none;
+}
+
+.btn-loc {
+    margin-left: 1.2rem;
+}
+
+.btn-outline {
+    color: #c1c7c6;
+    border-color: #c1c7c6;    
+}
+.btn-outline:hover{
+    color: #000;
+    background-color: #c1c7c6;
+}
+
+.fa-icon {
+    width: 1.5rem;
+    padding-top: 1rem;
+    size: 20rem;
+    margin-left: 1rem;
+}
+.m-dropdown {
+    padding: 8.8px 24px;
+    margin-left: -0.5rem !important;
+    color: white;
+}
+
+#dropdownMenuButton1 {
+    padding: 8px;
+    margin-left: 0.2rem;
+}
+
+.dropdown-menu ul {
+    list-style: none;
+}
+.dropdown-menu h6 {
+    color: #0aad0a;
+    margin-left: 3.5rem;
+}
+
+#mega-menu {
+    display: flex;
+}
+
+
+.carousel-text {
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 6%;
+}
+
+.badge {
+    position: absolute;
+}
+.feature-card {
+    margin: 0.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.banner-text {
+    position: absolute;
+}
+
+/* .card {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    background-color: white; 
+    box-sizing: border-box;
+    border: solid 3px; 
+    box-shadow: #000;
+} 
+
+.card:hover {
+    box-sizing: border-box;
+    color: #0aad0a;
+} */
+
+.fa-2x {
+    color: #0aad0a;
+    margin-bottom: 1.5rem;
+}
+#footer {
+    background-color: #f0f3f2;
+} 
+
+
+a:hover{
+    color: green;
+}
+
+.fab:hover {
+    color: #0aad0a !important;
+}
+
+
+
+
+
